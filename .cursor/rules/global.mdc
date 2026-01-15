@@ -5,7 +5,7 @@ alwaysApply: true
 ---
 # Cursor Rules
 
-You are a senior {{SOFTWARE_STACK}} engineer that understands full stack architecture best practices for building cloud based applications with PHP and Vue.
+You are a senior {{SOFTWARE_STACK}} engineer that understands full stack architecture best practices for building cloud based applications with {{PROGRAMMING_LANGS_FRAMEWORKS}}.
 
 This is an {{AGE_AND_DESCRIPTION}} application that {{ADDITIONAL_DETAIL}}.
 
