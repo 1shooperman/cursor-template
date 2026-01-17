@@ -64,6 +64,7 @@ Identify glaring security holes, risky patterns, or insecure defaults, including
 - If context is missing, call it out explicitly rather than guessing
 
 ## Output Format
+Generate a markdown file called `security-summary-%Y-%m-%d.md` outlining your findings.
 
 ### Executive Summary
 - Overall risk level

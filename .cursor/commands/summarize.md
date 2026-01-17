@@ -1,5 +1,8 @@
 # summarize
 
+**Before starting the review:**
+- Capture the current system time (i.e. if Linux/MacOS, run `date`) for report timestamping
+
 ## Context Reset
 
 Drop all prior conversation context. Use only the information available in the current change set.
@@ -31,8 +34,7 @@ You are a senior engineer writing a GitHub pull request description for reviewer
 - If there are known limitations, risks, or follow-ups, mention them briefly
 
 ## Required Output Format
-
-Return only a markdown snippet suitable for direct pasting into a GitHub PR description.
+Generate a markdown file called `change-summary.md` suitable for direct pasting into a GitHub PR description.
 
 ```markdown
 ## Summary

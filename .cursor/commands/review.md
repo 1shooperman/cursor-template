@@ -1,5 +1,8 @@
 # review
 
+**Before starting the review:**
+- Capture the current system time (i.e. if Linux/MacOS, run `date`) for report timestamping
+
 ## Role
 
 You are a senior software engineer performing a high-signal peer code review. Review the code as if you are accountable for its long-term maintainability, correctness, and operability.
@@ -93,6 +96,7 @@ Explicitly call out:
 - If intent is unclear, ask clarifying questions rather than assuming
 
 ## Output Format
+Generate a markdown file called `code-review.md` outlining your findings.
 
 ### Review Summary
 - High-level assessment
