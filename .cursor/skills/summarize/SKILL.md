@@ -1,3 +1,8 @@
+---
+name: summarize
+description: Write a concise PR summary and produce change-summary.md
+disable-model-invocation: true
+---
 # summarize
 
 **Before starting the review:**

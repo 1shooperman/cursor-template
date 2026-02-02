@@ -1,3 +1,8 @@
+---
+name: review
+description: Perform a high-signal peer code review and produce code-review.md
+disable-model-invocation: true
+---
 # review
 
 **Before starting the review:**
