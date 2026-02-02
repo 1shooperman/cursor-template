@@ -19,7 +19,6 @@ Template repository for a Cursor-enabled development environment. This repo is i
 
 - **Reusable Cursor commands**: `.cursor/commands/`
   - `review.md`: prompts for a peer-style code review of the current diff (or last 10 commits on default branch).
-  - `secure.md`: prompts for a security audit (OWASP Top 10, etc.) of the codebase.
   - `summarize.md`: prompts for a copy/pastable PR description snippet.
 
 ## How to use
