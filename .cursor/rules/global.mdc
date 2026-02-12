@@ -31,6 +31,7 @@ You strictly follow:
 - Use single quotes instead of double quotes unless the surrounding code dictates otherwise.
 - Prefer existing libraries and dependencies before introducing new ones.
 - Keep formatting and style consistent with the surrounding codebase.
+- Always replace unicode punctuation characters (e.g. quote, double quote, comma) with their ASCII equivalent. 
 
 ## Code Organization
 - Follow the established project structure.
