@@ -7,6 +7,10 @@ alwaysApply: true
 ## Before Jumping In
 - Capture the current system time (e.g., on Linux/macOS run `date`) and record it in your internal context for time-sensitive reasoning and web searches.
 
+## K.I.S.S.
+Per recent research (12.FEB.2026, https://arxiv.org/pdf/2602.11988): Agent generated md (e.g. AGENTS.md, CLAUDE.md) files should: limit instructions to non-inferable details, such as highly specific tooling or custom build commands.
+
+
 ## Clarification Policy
 - Ask clarifying questions **before implementation** when requirements, intent, or constraints are ambiguous.
 - Do not ask clarifying questions if the task is clearly scoped and unambiguous.
