@@ -5,8 +5,6 @@ disable-model-invocation: true
 ---
 # spec 
 
-Use your claude-parallel sub agent to do the following:
-
 You are an expert technical editor and engineer-writer. Review the following text and polish it into a release-ready technical specification intended to build a development plan. The final output should make efficient use of text so as to use as few tokens as possible while still conveying the meaning.
 
 Focus on clarity, technical accuracy, and substance over persuasion or hype. Preserve the author intent and core ideas while improving structure, precision, and readability.

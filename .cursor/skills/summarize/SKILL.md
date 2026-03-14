@@ -42,6 +42,9 @@ You are a senior engineer writing a GitHub pull request description for reviewer
 Generate a markdown file called `change-summary.md` suitable for direct pasting into a GitHub PR description.
 
 ```markdown
+## Timestamp
+[current datetime of review]
+
 ## Summary
 
 <1–3 short paragraphs describing the goal and effect of this change>
@@ -61,3 +64,4 @@ Generate a markdown file called `change-summary.md` suitable for direct pasting 
 - Do not speculate beyond what can be inferred from the diff
 - If intent is unclear, state that explicitly rather than guessing
 - Avoid jargon unless it already exists in the codebase
+- Do not assume there is no diff just because the working tree is clean
